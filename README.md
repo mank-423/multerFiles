@@ -1,5 +1,14 @@
 # multerFiles
 Uploading files(Images, docs, pdfs) using multer middleware
+A simple project with the implementation of multer in React.js, Exress.js and Node.js
+
+To use the project,
+1. Clone the project ' git clone https://github.com/mank-423/multerFiles '
+2. For client and server setup the enviroment by the command 'npm install or npm i'
+3. Now run the client(front-end) in a seperate tab of CLI with the command 'npm run dev'
+4. Run the backend in seperate tab, with the command of 'node index.js/nodemon index.js' *if nodemon is setup globally otherwise node with work fine
+5. Now after you upload the file, you will see the file getting stored in the upload folder of the backend directory
+
 
 <h1>Choosing a file to upload</h1>
 <img width="480" alt="image" src="https://github.com/mank-423/multerFiles/assets/96490105/8809f623-6d14-46b5-a27a-74954bc14a4a">
