@@ -28,4 +28,4 @@ To use the project,
 <img width="250" alt="image" src="https://github.com/mank-423/multerFiles/assets/96490105/ac84c9d4-8bb3-4832-a5e2-4c21f733ba40">
 
 <h1>Testing the local API</h1>
-<img width="550" alt="image" src="https://github.com/mank-423/multerFiles/assets/96490105/90809943-f073-4e38-b28a-b00e057cb9a5">
+<img width="750" alt="image" src="https://github.com/mank-423/multerFiles/assets/96490105/90809943-f073-4e38-b28a-b00e057cb9a5">
